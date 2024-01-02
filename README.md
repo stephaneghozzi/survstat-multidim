@@ -12,6 +12,8 @@ Please see explanations and details in the scripts.
 
 These scripts were originally written in 2020 by a developer who wishes to remain anonymous.
 
+See also Robert Gieseke's Open Covid Data, a similar program but in Python: [https://github.com/rgieseke/opencoviddata](https://github.com/rgieseke/opencoviddata)
+
 N.B. 1: Matching RKI's districts (Landkreise) with other datasets, such as official population data, can be tricky. Population can be recovered by dividing case counts by relative incidence and multiplying by 100,000.
 
 N.B. 2: Some districts have been redrawn or have been added during the time covered by the dataset. When a district has been split, the RKI constructs time series for the two resulting districts over the whole time range by randomly assigning cases reported before the split with 50% probability to either district as if it already existed.  
