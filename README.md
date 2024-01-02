@@ -1,6 +1,6 @@
 # SurvStat MultiDim
 
-R scripts for querying the Robert Koch Institute's (RKI) SurvStat dataset. 
+R functions and examples for querying the Robert Koch Institute's (RKI) SurvStat dataset. 
 This dataset contains aggregated confirmed case numbers reported to RKI in Germany for a number of notifiable infectious diseases. They are stratified along a number of dimensions such as sex, age group, district (Landkreis).
 
 See [https://survstat.rki.de](https://survstat.rki.de). 
